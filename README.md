@@ -1,4 +1,4 @@
-# Learning Git from The Odin Project
+# Learning from The Odin Project
 # My Favourite Recipes
 ## Description
     This project is about my favourite recipes.
